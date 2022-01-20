@@ -1,5 +1,5 @@
-Linux/Unix Shell Scripting-Kickoff Session 
-Start Date / Time: 2/8/2022 1:45:00 PM IST
+Linux Shell Scripting-Kickoff Session 
+Start / Time: 2/8/2022 1:45:00 PM IST
 End Date / Time: 2/8/2022 3:00:00 PM IST
 
 Linux/Unix Shell Scripting-Mentoring Session-2
